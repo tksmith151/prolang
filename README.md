@@ -4,6 +4,8 @@
 
 ---
 
+# Built-in Types
+
 type-type
 
 bit-type
