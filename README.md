@@ -6,20 +6,24 @@
 
 # Built-in Types
 
-type-type
+type-type: 
 
-bit-type
+bit-type: simply one bit of information
 
-reference-type
+reference-type: a reference to pointing to some other data of any type
 
-tuple-type
+tuple-type: combine other types
 
-option-type
+option-type: can be two or more different types depending on the runtime of output of the program
 
-function-type
+function-type:
 
 ---
+
+# Built-in Constants
 
 FALSE
 
 TRUE
+
+NULL-REFERENCE
