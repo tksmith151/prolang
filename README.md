@@ -19,4 +19,5 @@ function-type
 ---
 
 FALSE
+
 TRUE
