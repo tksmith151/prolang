@@ -4,6 +4,18 @@
 
 ---
 
+# Built-in Literals
+
+Boolean: TRUE, FALSE
+
+Integer: 9876543210
+
+Rational: 9876543210.9876543210
+
+String: "Hello World!"
+
+---
+
 # Built-in Types
 
 type-type: 
