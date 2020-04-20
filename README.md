@@ -34,9 +34,17 @@ function-type:
 
 # Built-in Constants
 
+Zero Bits
+
+NULL
+
+One Bit
+
 FALSE
 
 TRUE
+
+Many Bits
 
 NULL-REFERENCE
 
