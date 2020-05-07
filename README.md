@@ -2,6 +2,10 @@
 
 [Website](https://tksmith151.github.io/prolang/)
 
+For implementation help:
+
+https://github.com/kanaka/mal
+
 ---
 
 # Built-in Literals
