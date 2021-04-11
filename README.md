@@ -8,6 +8,18 @@ https://github.com/kanaka/mal
 
 ---
 
+# Basis
+
+Intermediate Representation Definition
+
+Uses Content-Based Hashing
+
+AOT Compilation to IR
+
+JIT Compilation to Machine Code
+
+---
+
 # Built-in Literals
 
 Boolean: TRUE, FALSE
