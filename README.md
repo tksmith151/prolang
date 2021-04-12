@@ -14,6 +14,8 @@ Intermediate Representation Definition
 
 Uses Content-Based Hashing
 
+Formatted Using Multibase/Multihash
+
 AOT Compilation to IR
 
 JIT Compilation to Machine Code
