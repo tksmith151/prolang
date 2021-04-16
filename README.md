@@ -20,6 +20,8 @@ AOT Compilation to IR
 
 JIT Compilation to Machine Code
 
+Inspired by: Unison Programming Language
+
 ---
 
 # Built-in Literals
